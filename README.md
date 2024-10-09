@@ -1,8 +1,8 @@
-Hi there! 
+Hi there!
+
 I'm Alex, a frontend developer with 1 year of freelance experience and currently residing in Spain.
 
 I developed skills in | UI&UX | HTML5 | CSS3 | JavScript | React |
-
 
 I study every day to get an opportunity in the area, collaborate with the team and, along the way, meet new people and expand my knowledge_ 
 
