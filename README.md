@@ -8,7 +8,7 @@ I study every day to get an opportunity in the area, collaborate with the team a
 
 Outside of work, I'm interested in like technology, investments, movies and personal growth.
 
-1% better every day!
+1% better every day! - "skills speak louder than words"
 
 @alexmonteirodev
 <!---
