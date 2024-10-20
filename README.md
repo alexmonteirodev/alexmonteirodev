@@ -6,7 +6,7 @@ I developed skills in | UI&UX | HTML5 | CSS3 | JavScript | React |
 
 I study every day to get an opportunity in the area, collaborate with the team and, along the way, meet new people and expand my knowledge_ 
 
-Outside of work, I'm interested in like technology, investments, movies and personal growth.
+Outside of work, I'm interested in technology, investing, film, personal growth, and sports.
 
 1% better every day! - "skills speak louder than words"
 
