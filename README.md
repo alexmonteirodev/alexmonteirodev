@@ -14,8 +14,6 @@ Outside of work, I'm interested in technology, investing, films, personal growth
 
 1% better every day! - "skills speak louder than words"
 
-@alexmonteirodev
-
 ---
 
 ### 🤖 Languages ​​and Technologies
