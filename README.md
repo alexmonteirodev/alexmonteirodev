@@ -64,26 +64,6 @@ Outside of work, I'm interested in technology, investing, films, personal growth
 <br/>
 
 ---
-### 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alexmonteirodev&show_icons=true&theme=transparent&include_all_commits=true&locale=en" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmonteirodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
 
 <!---
 alexmonteirodev/alexmonteirodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
