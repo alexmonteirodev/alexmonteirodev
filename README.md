@@ -53,6 +53,8 @@ Outside of work, I'm interested in technology, investing, films, personal growth
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
+<br/>
+
 ---
 ### 📊 Estatísticas
 
