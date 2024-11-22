@@ -18,7 +18,7 @@ Outside of work, I'm interested in technology, investing, films, personal growth
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -64,7 +64,7 @@ Outside of work, I'm interested in technology, investing, films, personal growth
 <br/>
 
 ---
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
