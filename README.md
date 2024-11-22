@@ -1,4 +1,4 @@
-Hi there!
+Hi there! 👋
 
 I'm [Alex](https://alexmonteirodev.github.io/portifolio-alex/), a frontend developer residing in Spain.
 
