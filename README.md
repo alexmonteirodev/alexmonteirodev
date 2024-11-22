@@ -11,6 +11,9 @@ Outside of work, I'm interested in technology, investing, films, personal growth
 1% better every day! - "skills speak louder than words"
 
 @alexmonteirodev
+
+---
+
 ---
 <!---
 alexmonteirodev/alexmonteirodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
