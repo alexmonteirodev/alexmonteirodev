@@ -6,7 +6,7 @@ Hi there! 👋
 
 I'm [Alex](https://alexmonteirodev.github.io/portifolio-alex/), a frontend developer residing in Spain.
 
-I developed skills in | HTML5 | CSS3 | JavScript | React |
+I developed skills in | HTML5 | CSS3 | JavScript | React | TailwindCSS
 
 I study every day to get an opportunity in the area, collaborate with the team and, along the way, meet new people and expand my knowledge_ 
 
