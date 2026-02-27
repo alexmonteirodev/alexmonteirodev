@@ -8,7 +8,7 @@ I'm [Alex](https://alexmonteirodev.github.io/portifolio-alex/), a Frontend Devel
 
 I contribute across the full product lifecycle — from early-stage ideation and product validation to defining technical architecture, designing data models, and implementing well-structured features.
 
-1% better every day! - "skills speak louder than words"
+1% better every day!
 
 📍 Spain
 
