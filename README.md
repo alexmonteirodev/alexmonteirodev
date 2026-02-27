@@ -4,15 +4,13 @@
 
 Hi there! 👋
 
-I'm [Alex](https://alexmonteirodev.github.io/portifolio-alex/), a frontend developer residing in Spain.
+I'm [Alex](https://alexmonteirodev.github.io/portifolio-alex/), a Frontend Developer with a strong focus on software architecture and system design, building applications from concept to production.
 
-I developed skills in | HTML5 | CSS3 | JavScript | TypeScript | React | Next | TailwindCSS
-
-I study every day to get an opportunity in the area, collaborate with the team and, along the way, meet new people and expand my knowledge_ 
-
-Outside of work, I'm interested in technology, investing, films, personal growth and sports.
+I contribute across the full product lifecycle — from early-stage ideation and product validation to defining technical architecture, designing data models, and implementing well-structured features.
 
 1% better every day! - "skills speak louder than words"
+
+📍 Spain
 
 ---
 
