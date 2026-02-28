@@ -4,7 +4,7 @@
 
 Hi there! 👋
 
-I'm [Alex](https://alexmonteirodev.github.io/portifolio-alex/), a Frontend Developer with a strong focus on software architecture and system design, building applications from concept to production.
+I'm [Alex](https://www.alexmonteirodev.com/), a Frontend Developer with a strong focus on software architecture and system design, building applications from concept to production.
 
 I contribute across the full product lifecycle — from early-stage ideation and product validation to defining technical architecture, designing data models, and implementing well-structured features.
 
