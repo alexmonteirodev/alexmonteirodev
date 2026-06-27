@@ -11,7 +11,7 @@ I contribute across the full product lifecycle — from early-stage ideation and
 1% better every day!
 
 📍 Spain
-
+<!---
 ---
 
 ### 🤖 Languages ​​and Technologies
